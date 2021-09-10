@@ -6,25 +6,25 @@
 
 ### **社交主页：**
 
-- <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAOTSFoJS3toCsqJ2_LSifPwOq2bGw9M3sP7F4D6k804VtCkJxge8pEJzbHZKr_G-0/?source=feed"><code><img height="20" width="50" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/toutiao.png"></code></a>
+- <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAOTSFoJS3toCsqJ2_LSifPwOq2bGw9M3sP7F4D6k804VtCkJxge8pEJzbHZKr_G-0/?source=feed"><code><img height="20" width="50" src="https://github.com/AKingSSS/AKingSSS/raw/main/toutiao.png"></code></a>
   ：拥有355个技术文章，1.5w多位粉丝
 
 ### **技术栈:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/spring.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/springboot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/dubbo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/mybatis-plus.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/MongoDB.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/rocketmq.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/elastic.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/docker.jpg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/AKingSSS/AKingSSS/main/bilibili.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/java.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/spring.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/springboot.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/dubbo.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/mysql.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/mybatis-plus.svg"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/redis.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/MongoDB.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/rocketmq.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/elastic.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/docker.jpg"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/vue.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/python.png"></code>
+<code><img height="20" src="https://github.com/AKingSSS/AKingSSS/raw/main/bilibili.png"></code>
 
 ### Github活跃度
 
