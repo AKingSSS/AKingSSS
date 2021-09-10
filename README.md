@@ -6,7 +6,7 @@
 
 ### **社交主页：**
 
-- <a href="./toutiao.png"><code><img height="20" width="50" src="http://sf1-scmcdn-tos.pstatp.com/obj/goofy/tt_download_page/static/media/logo.7132cb1b.png"></code></a>
+- <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAOTSFoJS3toCsqJ2_LSifPwOq2bGw9M3sP7F4D6k804VtCkJxge8pEJzbHZKr_G-0/?source=feed"><code><img height="20" width="50" src="./toutiao.png"></code></a>
   ：拥有355个技术文章，1.5w多位粉丝
 
 ### **技术栈:**
