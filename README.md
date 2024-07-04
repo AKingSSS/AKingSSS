@@ -1,6 +1,6 @@
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天愉快!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);祝您今天工作愉快!&center=true&size=27">
 	</a>
 </h1>
 
@@ -8,7 +8,6 @@
  
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AKingSSS)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](yangkang.china@gmail.com)
-<img  src="https://visitor-badge.glitch.me/badge?page_id=AkingSSS" />
 
 Welcome to my Github page! I am aking and I'm developing a voice social app !  
  
